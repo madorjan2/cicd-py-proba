@@ -1,2 +1,3 @@
 numpy
-pytest-allure
+pytest 
+allure-pytest
